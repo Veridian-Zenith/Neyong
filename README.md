@@ -1,4 +1,4 @@
-# Neyong
+# Neyong (On hold indefintely)
 
 Welcome to the Neyong project! This repository contains the source code for Neyong, a privacy-focused search engine designed to integrate seamlessly with SvaklaAI for enhanced search capabilities. It is part of the Veridian Zenith ecosystem.
 
