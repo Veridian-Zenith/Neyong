@@ -1,0 +1,20 @@
+Overview:
+Neyong is a Rust-based search engine designed to prioritize user privacy, speed, and relevance, serving as the default search engine for Vaelix.
+
+Key Features:
+
+Privacy-Centric: No tracking, logging, or data collection.​
+
+Fast and Relevant: Delivers quick search results tailored to user preferences.​
+
+Customizable: Allows users to tweak search algorithms and filters.​
+
+Development Plan:
+
+Crawler Development: Build a web crawler that indexes websites while respecting robots.txt and privacy guidelines.​
+
+Indexing System: Design an efficient indexing system to store and retrieve web data swiftly.​
+
+Search Algorithms: Implement algorithms that prioritize relevance and user-defined preferences.​
+
+Vaelix Integration: Ensure seamless integration with the Vaelix browser, allowing for quick and private searches.
